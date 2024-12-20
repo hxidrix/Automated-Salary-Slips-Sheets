@@ -58,3 +58,5 @@ The **Payslip Generator** automates the creation of individual payslips for empl
 
 ## Conclusion:
 This project showcases the power of Excel in automating complex business processes like payroll management. Through the use of formulas, macros, and VBA, the system efficiently handles attendance tracking, salary calculations, and payslip generation. It is an essential tool for organizations looking to streamline their payroll processes, ensuring accuracy, efficiency, and scalability while maintaining professionalism in employee compensation management.
+
+**Note:** The file contains macros, so it should only be opened in a macro-enabled Excel format (.xlsm) for all functionalities, including automated calculations and payslip generation, to work properly.
